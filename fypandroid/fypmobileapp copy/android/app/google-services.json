@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537416216796",
+    "project_id": "tumortool-mobile-15069",
+    "storage_bucket": "tumortool-mobile-15069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537416216796:android:8ff36a7ac8edf2af258419",
+        "android_client_info": {
+          "package_name": "com.example.fypmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537416216796-a07l3bt1fmgr0294e7dges2fo18d5nb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6aTOVG-NGkFJ1wVUZ-hGjmZNKkR3KU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537416216796-a07l3bt1fmgr0294e7dges2fo18d5nb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
